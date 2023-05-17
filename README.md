@@ -73,6 +73,6 @@ Home page
 
 ![Home screen](https://raw.githubusercontent.com/VedikaTyagi/All-Projects/main/WhatsApp%20Image%202023-05-17%20at%2016.28.57.jpeg)
 
-link to starting video of game(https://www.canva.com/design/DAFNTk75IhI/REmots1nK_I02aYGOU-qbQ/watch?utm_content=DAFNTk75IhI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+link to starting video of game(https://drive.google.com/file/d/1-J5ApiscJMVGnDiMOGjA-FrbyRi1ym0n/view?usp=drivesdk)
 
 
