@@ -5,18 +5,19 @@ This File contain details of all the projects I have worked on.
 
 I designed the front-end for this website using React.js.
 ### Link to the website
+https://csb-ugj4se-gsa2nyrxc-vedikatyagi.vercel.app/
 
 ### screenshots
 Home page
 
 ![Home screen](https://raw.githubusercontent.com/VedikaTyagi/All-Projects/main/Screenshot%20(71).png)
 
-Service page
-![Home screen](https://github.com/VedikaTyagi/All-Projects/blob/main/Screenshot%20(72).png)
+
 
 ## 2. Remine-prototype-web
 
 It is an assignment where I developed a home page for this company'swebsite which provides required information to the visitors.
+Using- HTML, CSS, Bootstrap.
 
 ### Link to the website
 https://vedikatyagi.github.io/Remine-prototype-web/
