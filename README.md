@@ -27,10 +27,22 @@ Home page
 
 ![Home screen](https://raw.githubusercontent.com/VedikaTyagi/All-Projects/main/Screenshot%20(77).png)
 
+## 3. Image Classification / Identification app
+Made a simple Image Classification / Identification app using React and Tensorflow JS. Used the pre-trained machine learning model from Tensorflow JS called mobilenet. This model is specifically used for image classification. This is a very simple app that uses tensorflow model, and tries to identify the content of the image.
+
+### Link to the app
+https://imageid.netlify.app
+
+
+### screenshots
+Home page
+
+![Home screen](https://raw.githubusercontent.com/VedikaTyagi/All-Projects/main/Screenshot%20(84).png)
 
 
 
-## 3. Game_delivery_driver
+
+## 4. Game_delivery_driver
 
 ### Goal
 
@@ -46,7 +58,7 @@ use the arrow keys to move the car.
 
 Link for working game video(https://clipchamp.com/watch/6iA1eFocTPg)
 
-## 4. Innerve 2022 Webite
+## 5. Innerve 2022 Webite
 
 This is one of the team projects I have worked on. We created a website for our technical fest.
 ### Link to the website
@@ -57,7 +69,7 @@ Home page
 
 ![Home screen](https://raw.githubusercontent.com/VedikaTyagi/All-Projects/main/Screenshot%20(75).png)
 
-## 5. Bridge of Life
+## 6. Bridge of Life
 
 In a team, designed a 3-D game in which I worked contributed to its functionalities by adding audio
 and videos
